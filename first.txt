@@ -1,4 +1,5 @@
 Hello World
 edit in github repo
 edit in remote repo
-edit from new branch brancing from previous commit
+edit from previous commit
+edit from github repo (main branch)
